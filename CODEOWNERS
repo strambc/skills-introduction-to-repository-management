@@ -1,0 +1,7 @@
+# Core functionality - changes here should be rare!
+/src/app.py                   @strambc
+/src/backend/database.py      @strambc
+/src/backend/routers/auth.py  @strambc
+
+# The frontend will need refactored soon to be more object oriented.
+/src/static/   @strambc
